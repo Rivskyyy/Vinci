@@ -8,4 +8,4 @@ them by category, comment and rate them.
 ![imgname](app/image/vinci_main.jpg)
 ![imgname](app/image/vinci3.jpg)
 ![imgname](app/image/vinci5.jpg)
-![imgname](app/image/vici_screen4.jpg)
+![imgname](app/image/vinci_log.jpg)
