@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728773613456",
+    "firebase_url": "https://study-now-436d2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "study-now-436d2",
+    "storage_bucket": "study-now-436d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728773613456:android:894f40b7a015ddc9e70515",
+        "android_client_info": {
+          "package_name": "com.rivskyinc.studynow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728773613456-rskt0p6bn9svnn311eonkjabb8b8co06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rivskyinc.studynow",
+            "certificate_hash": "3a5f67e5487a02fe88b728ae63197a66d86b18ec"
+          }
+        },
+        {
+          "client_id": "728773613456-820uumluhhui7ifu70dufsmu5ofvgo48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL6s7YqwWi0rdY9qxPn0Vr9N7MHRLMvmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728773613456-820uumluhhui7ifu70dufsmu5ofvgo48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
